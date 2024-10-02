@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.page{
+  background-color: blueviolet;
+  color: aliceblue;
+  text-align: center;
+  font-size: 40px;
+}
+
+.heading{
+  background-color: rgb(182, 69, 24);
+  color: rgb(226, 225, 231);
+}
+
+.header{
+  background-color:blueviolet;
+}
